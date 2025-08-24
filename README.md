@@ -290,26 +290,12 @@ Set production environment variables:
 - Document new API endpoints
 - Update README for new features
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🆘 Support
 
 ### Documentation
 - [API Documentation](docs/api.md)
 - [Component Library](docs/components.md)
 - [Deployment Guide](docs/deployment.md)
-
-### Issues
-- Report bugs via GitHub Issues
-- Request features through feature requests
-- Ask questions in discussions
-
-### Community
-- Join our Discord server
-- Follow updates on Twitter
-- Subscribe to our newsletter
 
 ---
 
